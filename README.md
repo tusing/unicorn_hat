@@ -8,6 +8,8 @@ The framework is designed with two concepts in mind: **bars** and **displays**. 
 
 You can fill your pixel matrix with bars, if you want, or go with one display and no bars.
 
+---
+
 ### An Example
 
 ![Here's an example.](https://github.com/tusing/unicorn_phat/blob/images/out.gif?raw=true)
@@ -19,6 +21,8 @@ When the Pi disconnects from the internet, the bar turns orange, and white pixel
 The display steals the show - it's a rainbow, and the speed of the rainbow increases with the load on the CPU.
 
 Both of these examples are included, along with a few more. It should be relatively simple to change each example to represent something else (network UL/DL speeds, for example), or to create your own bars and displays from scratch.
+
+---
 
 ### Other Tips
 
